@@ -1,9 +1,15 @@
 {
-  "version": 2,
-  "cleanUrls": true,
-  "trailingSlash": false,
   "$schema": "https://openapi.vercel.sh/vercel.json",
+  "cleanUrls": false,
   "rewrites": [
+    {
+      "source": "/",
+      "destination": "/a24.raviklaassens.com/index.html"
+    },
+    {
+      "source": "/index.html",
+      "destination": "/a24.raviklaassens.com/index.html"
+    },
     {
       "source": "/(.*)",
       "destination": "/a24.raviklaassens.com/$1"
