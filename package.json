@@ -1,0 +1,13 @@
+{
+  "name": "a24-filmography",
+  "version": "1.0.0",
+  "description": "Interactive 3D A24 film and television showcase",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["a24", "threejs", "webgl", "interactive"],
+  "author": "",
+  "license": "ISC"
+}

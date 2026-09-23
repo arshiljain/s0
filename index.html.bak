@@ -1,0 +1,575 @@
+<!DOCTYPE html><html lang="en"><head>
+  <meta charset="utf-8">
+  <title>5HT — Films</title>
+  <meta content="5HT Movie Critic &amp; Film Review Archive" name="description">
+  <meta content="5HT — Films" property="og:title">
+  <meta content="5HT Movie Critic &amp; Film Review Archive" property="og:description">
+  <meta content="https://a24.raviklaassens.com/images/a24thumb.png" property="og:image">
+  <meta content="5HT — Films" name="twitter:title">
+  <meta content="5HT Movie Critic &amp; Film Review Archive" name="twitter:description">
+  <meta property="og:type" content="website">
+  <meta content="summary_large_image" name="twitter:card">
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  
+  
+  
+  
+  <script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script>
+  <link href="/images/favicon.png" rel="shortcut icon" type="image/x-icon">
+  <link href="/images/webclip.png" rel="apple-touch-icon">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"5HT Films","url":"https://a24.raviklaassens.com/","mainEntity":{"@type":"ItemList","numberOfItems":12,"itemListElement":[{"@type":"ListItem","position":1,"url":"https://a24.raviklaassens.com/production/backrooms","name":"Backrooms"},{"@type":"ListItem","position":2,"url":"https://a24.raviklaassens.com/production/the-invite","name":"The Invite"},{"@type":"ListItem","position":3,"url":"https://a24.raviklaassens.com/production/tony","name":"Tony"},{"@type":"ListItem","position":4,"url":"https://a24.raviklaassens.com/production/marty-supreme","name":"Marty Supreme"},{"@type":"ListItem","position":5,"url":"https://a24.raviklaassens.com/production/the-smashing-machine","name":"The Smashing Machine"},{"@type":"ListItem","position":6,"url":"https://a24.raviklaassens.com/production/the-brutalist","name":"The Brutalist"},{"@type":"ListItem","position":7,"url":"https://a24.raviklaassens.com/production/the-zone-of-interest","name":"The Zone of Interest"},{"@type":"ListItem","position":8,"url":"https://a24.raviklaassens.com/production/everything-everywhere-all-at-once","name":"Everything Everywhere All at Once"},{"@type":"ListItem","position":9,"url":"https://a24.raviklaassens.com/production/uncut-gems","name":"Uncut Gems"},{"@type":"ListItem","position":10,"url":"https://a24.raviklaassens.com/production/hereditary","name":"Hereditary"},{"@type":"ListItem","position":11,"url":"https://a24.raviklaassens.com/production/lady-bird","name":"Lady Bird"},{"@type":"ListItem","position":12,"url":"https://a24.raviklaassens.com/production/ex-machina","name":"Ex Machina"}]}}</script>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <!-- preloader disabled -->
+  <!--  First-paint guards. bundle.css (Odyn) loads from an embed in the
+     <body>, so a browser may paint before it arrives; these mirror the
+     preloader + production-hero guards in style.css so nothing can be
+     seen before it is revealed. Designer/Editor safe.  -->
+  <!-- preload styles disabled -->
+<link rel="canonical" href="https://a24.raviklaassens.com/"><meta property="og:url" content="https://a24.raviklaassens.com/"><link rel="preconnect" href="https://raviklaassens.b-cdn.net" crossorigin=""><link rel="preload" href="/fonts/PPNeueMontreal-Medium.woff2" as="font" type="font/woff2" crossorigin=""><link rel="preload" href="/fonts/PPEiko-Regular.woff2" as="font" type="font/woff2" crossorigin=""><script defer="" src="https://cloud.umami.is/script.js" data-website-id="dd272492-034a-45c0-9595-a09fcb0eb3dd" data-domains="a24.raviklaassens.com"></script><link rel="stylesheet" href="/_astro/ExportPage.DV5vD961.css"></head> <body color-mode="" data-barba="wrapper"> 
+  <div class="page-wrapper">
+    <div class="global-styles">
+      <div class="global-css w-embed">
+        
+      </div>
+    </div>
+    <div data-transition-wrap="" class="transition">
+      <div data-transition-dark="" class="transition__dark"></div>
+    </div>
+    <div data-grain-animate="true" class="grain"></div>
+    <nav data-theme-target="nav" data-menu-status="closed" class="nav theme-dark">
+      <div class="nav-container">
+        <div class="nav-bg"></div>
+        <div class="nav-inner">
+          <div class="nav-center">
+            <ul class="nav-center__list">
+              <li id="">
+                <a href="/" aria-current="page" class="nav-logo w-inline-block w--current" aria-label="5HT home"><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 32 12" fill="currentColor" class="a24-logo" aria-hidden="true" focusable="false">
+  <text x="0" y="10.5" font-family="'PP Neue Montreal', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="12" letter-spacing="-0.04em">5HT</text>
+</svg></a>
+              </li>
+              <li>
+                <a data-hover="" data-barba-update="" href="/" aria-current="page" class="nav-link w-inline-block w--current"><span data-hover-target="" class="nav-link__label">Films</span></a>
+              </li>
+              <li>
+                <a data-hover="" data-barba-update="" href="/television" class="nav-link w-inline-block"><span data-hover-target="" class="nav-link__label">Television</span></a>
+              </li>
+              <li><button data-dropdown-toggle="" class="nav-link"><span class="nav-link__label">Index</span><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 17 10" fill="none" class="nav-link__dropdown-icon">
+                    <path d="M1.5 1.5L8.5 8.5L15.5 1.5" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+                  </svg></button>
+                <div class="nav-dropdown">
+                  <div class="nav-dropdown__overflow">
+                    <div class="nav-dropdown__overflow-inner">
+                      <div class="nav-dropdown__content w-dyn-list">
+                        <div role="list" class="nav-dropdown__content-li w-dyn-items">
+                          <div role="listitem" class="w-dyn-item">
+                            <a data-film-scroll="Backrooms" href="/production/backrooms" class="nav-dropdown__link w-inline-block" data-barba-prevent="">
+                              <div class="nav-dropdown__link-inner">
+                                <h2 class="nav-dropdown__link-label">Backrooms</h2><span class="nav-dropdown__link-label">2026</span>
+                              </div>
+                            </a>
+                          </div><div role="listitem" class="w-dyn-item">
+                            <a data-film-scroll="The Invite" href="/production/the-invite" class="nav-dropdown__link w-inline-block" data-barba-prevent="">
+                              <div class="nav-dropdown__link-inner">
+                                <h2 class="nav-dropdown__link-label">The Invite</h2><span class="nav-dropdown__link-label">2026</span>
+                              </div>
+                            </a>
+                          </div><div role="listitem" class="w-dyn-item">
+                            <a data-film-scroll="Tony" href="/production/tony" class="nav-dropdown__link w-inline-block" data-barba-prevent="">
+                              <div class="nav-dropdown__link-inner">
+                                <h2 class="nav-dropdown__link-label">Tony</h2><span class="nav-dropdown__link-label">2026</span>
+                              </div>
+                            </a>
+                          </div><div role="listitem" class="w-dyn-item">
+                            <a data-film-scroll="Marty Supreme" href="/production/marty-supreme" class="nav-dropdown__link w-inline-block" data-barba-prevent="">
+                              <div class="nav-dropdown__link-inner">
+                                <h2 class="nav-dropdown__link-label">Marty Supreme</h2><span class="nav-dropdown__link-label">2025</span>
+                              </div>
+                            </a>
+                          </div><div role="listitem" class="w-dyn-item">
+                            <a data-film-scroll="The Smashing Machine" href="/production/the-smashing-machine" class="nav-dropdown__link w-inline-block" data-barba-prevent="">
+                              <div class="nav-dropdown__link-inner">
+                                <h2 class="nav-dropdown__link-label">The Smashing Machine</h2><span class="nav-dropdown__link-label">2025</span>
+                              </div>
+                            </a>
+                          </div><div role="listitem" class="w-dyn-item">
+                            <a data-film-scroll="The Brutalist" href="/production/the-brutalist" class="nav-dropdown__link w-inline-block" data-barba-prevent="">
+                              <div class="nav-dropdown__link-inner">
+                                <h2 class="nav-dropdown__link-label">The Brutalist</h2><span class="nav-dropdown__link-label">2024</span>
+                              </div>
+                            </a>
+                          </div><div role="listitem" class="w-dyn-item">
+                            <a data-film-scroll="The Zone of Interest" href="/production/the-zone-of-interest" class="nav-dropdown__link w-inline-block" data-barba-prevent="">
+                              <div class="nav-dropdown__link-inner">
+                                <h2 class="nav-dropdown__link-label">The Zone of Interest</h2><span class="nav-dropdown__link-label">2023</span>
+                              </div>
+                            </a>
+                          </div><div role="listitem" class="w-dyn-item">
+                            <a data-film-scroll="Everything Everywhere All at Once" href="/production/everything-everywhere-all-at-once" class="nav-dropdown__link w-inline-block" data-barba-prevent="">
+                              <div class="nav-dropdown__link-inner">
+                                <h2 class="nav-dropdown__link-label">Everything Everywhere All at Once</h2><span class="nav-dropdown__link-label">2022</span>
+                              </div>
+                            </a>
+                          </div><div role="listitem" class="w-dyn-item">
+                            <a data-film-scroll="Uncut Gems" href="/production/uncut-gems" class="nav-dropdown__link w-inline-block" data-barba-prevent="">
+                              <div class="nav-dropdown__link-inner">
+                                <h2 class="nav-dropdown__link-label">Uncut Gems</h2><span class="nav-dropdown__link-label">2019</span>
+                              </div>
+                            </a>
+                          </div><div role="listitem" class="w-dyn-item">
+                            <a data-film-scroll="Hereditary" href="/production/hereditary" class="nav-dropdown__link w-inline-block" data-barba-prevent="">
+                              <div class="nav-dropdown__link-inner">
+                                <h2 class="nav-dropdown__link-label">Hereditary</h2><span class="nav-dropdown__link-label">2018</span>
+                              </div>
+                            </a>
+                          </div><div role="listitem" class="w-dyn-item">
+                            <a data-film-scroll="Lady Bird" href="/production/lady-bird" class="nav-dropdown__link w-inline-block" data-barba-prevent="">
+                              <div class="nav-dropdown__link-inner">
+                                <h2 class="nav-dropdown__link-label">Lady Bird</h2><span class="nav-dropdown__link-label">2017</span>
+                              </div>
+                            </a>
+                          </div><div role="listitem" class="w-dyn-item">
+                            <a data-film-scroll="Ex Machina" href="/production/ex-machina" class="nav-dropdown__link w-inline-block" data-barba-prevent="">
+                              <div class="nav-dropdown__link-inner">
+                                <h2 class="nav-dropdown__link-label">Ex Machina</h2><span class="nav-dropdown__link-label">2015</span>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                        
+                      </div>
+                    </div>
+                  </div>
+                  <div class="nav-dropdown__scrollbar">
+                    <div class="nav-dropdown__scrollbar-progress"></div>
+                  </div>
+                </div>
+              </li>
+            </ul>
+          </div>
+          <div></div>
+        </div>
+      </div>
+      <div class="page-bg"></div>
+    </nav>
+    <div data-trailer-lightbox="" data-trailer-status="not-active" class="trailer-lightbox theme-dark">
+      <div data-trailer-strip="top" class="trailer-lightbox__strip"></div>
+      <div data-trailer-strip="bottom" class="trailer-lightbox__strip"></div>
+      <div data-trailer-canvas="" class="trailer-lightbox__canvas">
+        <div data-trailer-plate="" class="trailer-lightbox__plate"></div>
+        <div data-trailer-stage="" class="trailer-lightbox__stage">
+          <div data-trailer-player="" class="trailer-lightbox__player">
+            <div data-trailer-frame="" class="trailer-lightbox__frame">
+              <div data-trailer-iframe="" class="trailer-lightbox__iframe"></div>
+            </div>
+            <div data-trailer-shield="" class="trailer-lightbox__shield"></div>
+            <div data-trailer-paused="" class="trailer-lightbox__paused"></div>
+            <a data-hover="" data-trailer-unmute="" href="#" class="trailer-lightbox__unmute w-button">TAP FOR SOUND</a>
+          </div>
+        </div>
+        <div data-trailer-ui="" class="trailer-lightbox__ui">
+          <div class="trailer-lightbox__top">
+            <div data-wrap-group="1.25rem" data-trailer-meta="" data-wrap-flow="" class="trailer-lightbox__meta"></div>
+            <a data-hover="" data-trailer-close="" href="#" class="trailer-lightbox__ctl w-button">CLOSE</a>
+          </div>
+          <div class="trailer-lightbox__bottom">
+            <a data-hover="" data-trailer-control="playpause" href="#" class="trailer-lightbox__ctl w-button">PAUSE</a>
+            <p data-trailer-time="" class="trailer-lightbox__time">00:00 / 00:00</p>
+            <div data-trailer-timeline="" class="trailer-lightbox__timeline">
+              <div class="trailer-lightbox__timeline-rule"></div>
+              <div data-trailer-buffer="" class="trailer-lightbox__timeline-buffer"></div>
+              <div data-trailer-progress="" class="trailer-lightbox__timeline-progress"></div>
+              <div data-trailer-handle="" class="trailer-lightbox__timeline-handle"></div>
+            </div>
+            <div data-trailer-sound="" class="trailer-lightbox__sound">
+              <a data-hover="" data-trailer-control="mute" href="#" class="trailer-lightbox__ctl">SOUND</a>
+              <div data-trailer-volume="" class="trailer-lightbox__volume">
+                <div class="trailer-lightbox__volume-rule"></div>
+                <div data-trailer-volume-level="" class="trailer-lightbox__volume-level"></div>
+                <div data-trailer-volume-handle="" class="trailer-lightbox__volume-handle"></div>
+              </div>
+            </div>
+            <a data-hover="" data-trailer-control="fullscreen" href="#" class="trailer-lightbox__ctl w-button">MAXIMIZE</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <main data-barba-namespace="films" data-barba="container" class="main-wrapper">
+      <section id="section_hero" data-theme-change="nav:dark" data-disc-gallery="" class="hero theme-base">
+        <div class="container">
+          <div class="experience_wrap">
+            <h1 class="sr-only">Discover the 5HT Film Reviews &amp; Critique</h1>
+            <div class="experience_info">
+              <p space-top="" space-bottom="" data-film-target="title" style="" data-balance-lines="" data-reserve-lines="" data-reveal="" class="custom-element heading-s">Backrooms</p>
+              <div class="info-content">
+                <div class="info-content_panel">
+                  <div class="divider-horizontal top"></div>
+                  <div class="info-content_label-wrap">
+                    <p space-top="" space-bottom="" data-film-target="" style="" data-balance-lines="" data-reserve-lines="" data-reveal="" class="custom-element subheading-xs">DIRECTED BY</p>
+                  </div>
+                  <p space-top="" space-bottom="" data-film-target="primary-credit" style="" data-balance-lines="" data-reserve-lines="" data-reveal="" class="custom-element paragraph-m text-align-right">Kane Parsons</p>
+                </div>
+                <div class="info-content_panel">
+                  <div class="divider-horizontal top"></div>
+                  <div class="info-content_label-wrap">
+                    <p space-top="" space-bottom="" data-film-target="" style="" data-balance-lines="" data-reserve-lines="" data-reveal="" class="custom-element subheading-xs">YEAR</p>
+                  </div>
+                  <p space-top="" space-bottom="" data-film-target="year" style="" data-balance-lines="" data-reserve-lines="" data-reveal="" class="custom-element paragraph-m text-align-right">2026</p>
+                </div>
+                <div class="info-content_panel">
+                  <div class="divider-horizontal top"></div>
+                  <div class="info-content_label-wrap">
+                    <p space-top="x" space-bottom="" data-film-target="" style="" data-balance-lines="" data-reserve-lines="" data-reveal="" class="custom-element subheading-xs">RATINGS</p>
+                  </div>
+                  <p space-top="" space-bottom="" data-film-target="starring" style="" data-balance-lines="" data-reserve-lines="" data-reveal="" class="custom-element paragraph-m text-align-right">Acting 3.5/5<br>Directing 4.0/5<br>Writing 3.5/5<br>Cinematography 4.5/5<br>Pacing 3.0/5<br>Soundtrack 4.0/5</p>
+                </div>
+              </div>
+            </div>
+            <div class="testimonial_wrap">
+              <div data-review-target-item="" class="testimonial">
+                <div data-film-target="review-stars" class="testimonial__stars"><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 11 10" fill="none" class="star">
+                    <path d="M5.24862 0L6.68508 3.53591L10.4972 3.81215L7.62431 6.29834L8.50829 10L5.24862 8.01105L1.98895 10L2.87293 6.29834L0 3.81215L3.81215 3.53591L5.24862 0Z" fill="currentColor"></path>
+                  </svg><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 11 10" fill="none" class="star">
+                    <path d="M5.24862 0L6.68508 3.53591L10.4972 3.81215L7.62431 6.29834L8.50829 10L5.24862 8.01105L1.98895 10L2.87293 6.29834L0 3.81215L3.81215 3.53591L5.24862 0Z" fill="currentColor"></path>
+                  </svg><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 11 10" fill="none" class="star">
+                    <path d="M5.24862 0L6.68508 3.53591L10.4972 3.81215L7.62431 6.29834L8.50829 10L5.24862 8.01105L1.98895 10L2.87293 6.29834L0 3.81215L3.81215 3.53591L5.24862 0Z" fill="currentColor"></path>
+                  </svg><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 11 10" fill="none" class="star">
+                    <path d="M5.24862 0L6.68508 3.53591L10.4972 3.81215L7.62431 6.29834L8.50829 10L5.24862 8.01105L1.98895 10L2.87293 6.29834L0 3.81215L3.81215 3.53591L5.24862 0Z" fill="currentColor"></path>
+                  </svg><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 11 10" fill="none" class="star">
+                    <path d="M5.24862 0L6.68508 3.53591L10.4972 3.81215L7.62431 6.29834L8.50829 10L5.24862 8.01105L1.98895 10L2.87293 6.29834L0 3.81215L3.81215 3.53591L5.24862 0Z" fill="currentColor"></path>
+                  </svg></div>
+                <div class="testimonial__text">
+                  <p space-top="" space-bottom="" data-film-target="review-publication" style="" data-balance-lines="" data-reserve-lines="" data-reveal="" class="custom-element subheading-xs text-align-center">5HT CRITIC</p>
+                  <p space-top="" space-bottom="" data-film-target="review-testimonial" style="" data-balance-lines="" data-reserve-lines="" data-reveal="" class="custom-element heading-xs text-align-center">Something Far More Haunting</p>
+                </div>
+              </div>
+              
+            </div>
+          </div>
+        </div>
+        <div data-disc-canvas="" class="experience-canvas"></div>
+        <div data-film-list="" class="film-data w-dyn-list">
+          <div role="list" class="w-dyn-items">
+            <div data-film-item="" role="listitem" class="collection-item w-dyn-item">
+              <p data-film-field="title" class="paragraph-xxs">Backrooms</p>
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items">
+                  <div role="listitem" class="w-dyn-item">
+                    <p data-film-field="directors" class="paragraph-xxs">Kane Parsons</p>
+                  </div>
+                </div>
+              </div>
+              <p data-film-field="year" class="paragraph-xxs">2026</p>
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items"><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Acting 3.5/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Directing 4.0/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Writing 3.5/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Cinematography 4.5/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Pacing 3.0/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Soundtrack 4.0/5</p></div></div>
+              </div>
+              <p data-film-field="disc-art-url" class="paragraph-xxs">https://raviklaassens.b-cdn.net/a24/films/backrooms/disc.webp?v=7</p>
+              <p data-film-field="disc-art-alt" class="paragraph-xxs">Backrooms disc artwork</p>
+              <a data-film-field="detail-url" href="/production/backrooms" class="w-inline-block"></a>
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items">
+                  <div data-review-source-item="" role="listitem" class="w-dyn-item">
+                    <p data-film-field="review-publication" class="paragraph-xxs">5HT Critic</p>
+                    <p data-film-field="review-testimonial" class="paragraph-xxs">Something Far More Haunting</p>
+                    <p data-film-field="review-stars" class="paragraph-xxs">4.5</p>
+                  </div>
+                </div>
+              </div>
+            </div><div data-film-item="" role="listitem" class="collection-item w-dyn-item">
+              <p data-film-field="title" class="paragraph-xxs">The Invite</p>
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items">
+                  <div role="listitem" class="w-dyn-item">
+                    <p data-film-field="directors" class="paragraph-xxs">Olivia Wilde</p>
+                  </div>
+                </div>
+              </div>
+              <p data-film-field="year" class="paragraph-xxs">2026</p>
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items"><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Acting 4.0/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Directing 3.5/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Writing 4.0/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Cinematography 3.5/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Pacing 3.5/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Soundtrack 3.5/5</p></div></div>
+              </div>
+              <p data-film-field="disc-art-url" class="paragraph-xxs">https://raviklaassens.b-cdn.net/a24/films/the-invite/disc.webp?v=7</p>
+              <p data-film-field="disc-art-alt" class="paragraph-xxs">The Invite disc artwork</p>
+              <a data-film-field="detail-url" href="/production/the-invite" class="w-inline-block"></a>
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items">
+                  <div data-review-source-item="" role="listitem" class="w-dyn-item">
+                    <p data-film-field="review-publication" class="paragraph-xxs">5HT Critic</p>
+                    <p data-film-field="review-testimonial" class="paragraph-xxs">Sharp, Witty and Uncomfortably Honest</p>
+                    <p data-film-field="review-stars" class="paragraph-xxs">4.0</p>
+                  </div>
+                </div>
+              </div>
+            </div><div data-film-item="" role="listitem" class="collection-item w-dyn-item">
+              <p data-film-field="title" class="paragraph-xxs">Tony</p>
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items">
+                  <div role="listitem" class="w-dyn-item">
+                    <p data-film-field="directors" class="paragraph-xxs">Matt Johnson</p>
+                  </div>
+                </div>
+              </div>
+              <p data-film-field="year" class="paragraph-xxs">2026</p>
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items"><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Acting 4.5/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Directing 4.0/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Writing 4.0/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Cinematography 4.0/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Pacing 3.5/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Soundtrack 4.0/5</p></div></div>
+              </div>
+              <p data-film-field="disc-art-url" class="paragraph-xxs">https://raviklaassens.b-cdn.net/a24/films/tony/disc.webp?v=7</p>
+              <p data-film-field="disc-art-alt" class="paragraph-xxs">Tony disc artwork</p>
+              <a data-film-field="detail-url" href="/production/tony" class="w-inline-block"></a>
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items">
+                  <div data-review-source-item="" role="listitem" class="w-dyn-item">
+                    <p data-film-field="review-publication" class="paragraph-xxs">5HT Critic</p>
+                    <p data-film-field="review-testimonial" class="paragraph-xxs">A Terrific Character Study</p>
+                    <p data-film-field="review-stars" class="paragraph-xxs">4.0</p>
+                  </div>
+                </div>
+              </div>
+            </div><div data-film-item="" role="listitem" class="collection-item w-dyn-item">
+              <p data-film-field="title" class="paragraph-xxs">Marty Supreme</p>
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items">
+                  <div role="listitem" class="w-dyn-item">
+                    <p data-film-field="directors" class="paragraph-xxs">Josh Safdie</p>
+                  </div>
+                </div>
+              </div>
+              <p data-film-field="year" class="paragraph-xxs">2025</p>
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items"><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Acting 4.5/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Directing 4.5/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Writing 4.0/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Cinematography 4.5/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Pacing 4.0/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Soundtrack 4.5/5</p></div></div>
+              </div>
+              <p data-film-field="disc-art-url" class="paragraph-xxs">https://raviklaassens.b-cdn.net/a24/films/marty-supreme/disc.webp?v=7</p>
+              <p data-film-field="disc-art-alt" class="paragraph-xxs">Marty Supreme disc artwork</p>
+              <a data-film-field="detail-url" href="/production/marty-supreme" class="w-inline-block"></a>
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items">
+                  <div data-review-source-item="" role="listitem" class="w-dyn-item">
+                    <p data-film-field="review-publication" class="paragraph-xxs">5HT Critic</p>
+                    <p data-film-field="review-testimonial" class="paragraph-xxs">Electrifying, Fast-Paced and Audacious</p>
+                    <p data-film-field="review-stars" class="paragraph-xxs">4.5</p>
+                  </div>
+                </div>
+              </div>
+            </div><div data-film-item="" role="listitem" class="collection-item w-dyn-item">
+              <p data-film-field="title" class="paragraph-xxs">The Smashing Machine</p>
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items">
+                  <div role="listitem" class="w-dyn-item">
+                    <p data-film-field="directors" class="paragraph-xxs">Benny Safdie</p>
+                  </div>
+                </div>
+              </div>
+              <p data-film-field="year" class="paragraph-xxs">2025</p>
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items"><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Acting 4.5/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Directing 4.0/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Writing 4.0/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Cinematography 4.0/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Pacing 4.0/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Soundtrack 3.5/5</p></div></div>
+              </div>
+              <p data-film-field="disc-art-url" class="paragraph-xxs">https://raviklaassens.b-cdn.net/a24/films/the-smashing-machine/disc.webp?v=7</p>
+              <p data-film-field="disc-art-alt" class="paragraph-xxs">The Smashing Machine disc artwork</p>
+              <a data-film-field="detail-url" href="/production/the-smashing-machine" class="w-inline-block"></a>
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items">
+                  <div data-review-source-item="" role="listitem" class="w-dyn-item">
+                    <p data-film-field="review-publication" class="paragraph-xxs">5HT Critic</p>
+                    <p data-film-field="review-testimonial" class="paragraph-xxs">Raw, Visceral and Emotionally Heavy</p>
+                    <p data-film-field="review-stars" class="paragraph-xxs">4.0</p>
+                  </div>
+                </div>
+              </div>
+            </div><div data-film-item="" role="listitem" class="collection-item w-dyn-item">
+              <p data-film-field="title" class="paragraph-xxs">The Brutalist</p>
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items">
+                  <div role="listitem" class="w-dyn-item">
+                    <p data-film-field="directors" class="paragraph-xxs">Brady Corbet</p>
+                  </div>
+                </div>
+              </div>
+              <p data-film-field="year" class="paragraph-xxs">2024</p>
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items"><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Acting 5.0/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Directing 5.0/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Writing 4.5/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Cinematography 5.0/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Pacing 4.0/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Soundtrack 5.0/5</p></div></div>
+              </div>
+              <p data-film-field="disc-art-url" class="paragraph-xxs">https://raviklaassens.b-cdn.net/a24/films/the-brutalist/disc.webp?v=7</p>
+              <p data-film-field="disc-art-alt" class="paragraph-xxs">The Brutalist disc artwork</p>
+              <a data-film-field="detail-url" href="/production/the-brutalist" class="w-inline-block"></a>
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items">
+                  <div data-review-source-item="" role="listitem" class="w-dyn-item">
+                    <p data-film-field="review-publication" class="paragraph-xxs">5HT Critic</p>
+                    <p data-film-field="review-testimonial" class="paragraph-xxs">A Monumental Cinematic Triumph</p>
+                    <p data-film-field="review-stars" class="paragraph-xxs">5</p>
+                  </div>
+                </div>
+              </div>
+            </div><div data-film-item="" role="listitem" class="collection-item w-dyn-item">
+              <p data-film-field="title" class="paragraph-xxs">The Zone of Interest</p>
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items">
+                  <div role="listitem" class="w-dyn-item">
+                    <p data-film-field="directors" class="paragraph-xxs">Jonathan Glazer</p>
+                  </div>
+                </div>
+              </div>
+              <p data-film-field="year" class="paragraph-xxs">2023</p>
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items"><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Acting 5.0/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Directing 5.0/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Writing 4.5/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Cinematography 5.0/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Pacing 4.5/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Soundtrack 5.0/5</p></div></div>
+              </div>
+              <p data-film-field="disc-art-url" class="paragraph-xxs">https://raviklaassens.b-cdn.net/a24/films/the-zone-of-interest/disc.webp?v=7</p>
+              <p data-film-field="disc-art-alt" class="paragraph-xxs">The Zone of Interest disc artwork</p>
+              <a data-film-field="detail-url" href="/production/the-zone-of-interest" class="w-inline-block"></a>
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items">
+                  <div data-review-source-item="" role="listitem" class="w-dyn-item">
+                    <p data-film-field="review-publication" class="paragraph-xxs">5HT Critic</p>
+                    <p data-film-field="review-testimonial" class="paragraph-xxs">Chilling, Rigorous and Profound</p>
+                    <p data-film-field="review-stars" class="paragraph-xxs">5</p>
+                  </div>
+                </div>
+              </div>
+            </div><div data-film-item="" role="listitem" class="collection-item w-dyn-item">
+              <p data-film-field="title" class="paragraph-xxs">Everything Everywhere All at Once</p>
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items">
+                  <div role="listitem" class="w-dyn-item">
+                    <p data-film-field="directors" class="paragraph-xxs">Daniel Kwan</p>
+                  </div><div role="listitem" class="w-dyn-item">
+                    <p data-film-field="directors" class="paragraph-xxs">Daniel Scheinert</p>
+                  </div>
+                </div>
+              </div>
+              <p data-film-field="year" class="paragraph-xxs">2022</p>
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items"><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Acting 5.0/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Directing 5.0/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Writing 5.0/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Cinematography 4.5/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Pacing 4.5/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Soundtrack 4.5/5</p></div></div>
+              </div>
+              <p data-film-field="disc-art-url" class="paragraph-xxs">https://raviklaassens.b-cdn.net/a24/films/everything-everywhere-all-at-once/disc.webp?v=7</p>
+              <p data-film-field="disc-art-alt" class="paragraph-xxs">Everything Everywhere All at Once disc artwork</p>
+              <a data-film-field="detail-url" href="/production/everything-everywhere-all-at-once" class="w-inline-block"></a>
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items">
+                  <div data-review-source-item="" role="listitem" class="w-dyn-item">
+                    <p data-film-field="review-publication" class="paragraph-xxs">5HT Critic</p>
+                    <p data-film-field="review-testimonial" class="paragraph-xxs">An Explosion of Creative Genius</p>
+                    <p data-film-field="review-stars" class="paragraph-xxs">5</p>
+                  </div>
+                </div>
+              </div>
+            </div><div data-film-item="" role="listitem" class="collection-item w-dyn-item">
+              <p data-film-field="title" class="paragraph-xxs">Uncut Gems</p>
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items">
+                  <div role="listitem" class="w-dyn-item">
+                    <p data-film-field="directors" class="paragraph-xxs">Josh Safdie</p>
+                  </div><div role="listitem" class="w-dyn-item">
+                    <p data-film-field="directors" class="paragraph-xxs">Benny Safdie</p>
+                  </div>
+                </div>
+              </div>
+              <p data-film-field="year" class="paragraph-xxs">2019</p>
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items"><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Acting 5.0/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Directing 4.5/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Writing 4.5/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Cinematography 4.5/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Pacing 5.0/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Soundtrack 4.5/5</p></div></div>
+              </div>
+              <p data-film-field="disc-art-url" class="paragraph-xxs">https://raviklaassens.b-cdn.net/a24/films/uncut-gems/disc.webp?v=7</p>
+              <p data-film-field="disc-art-alt" class="paragraph-xxs">Uncut Gems disc artwork</p>
+              <a data-film-field="detail-url" href="/production/uncut-gems" class="w-inline-block"></a>
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items">
+                  <div data-review-source-item="" role="listitem" class="w-dyn-item">
+                    <p data-film-field="review-publication" class="paragraph-xxs">5HT Critic</p>
+                    <p data-film-field="review-testimonial" class="paragraph-xxs">Pure Adrenaline and Kinetic Tension</p>
+                    <p data-film-field="review-stars" class="paragraph-xxs">5</p>
+                  </div>
+                </div>
+              </div>
+            </div><div data-film-item="" role="listitem" class="collection-item w-dyn-item">
+              <p data-film-field="title" class="paragraph-xxs">Hereditary</p>
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items">
+                  <div role="listitem" class="w-dyn-item">
+                    <p data-film-field="directors" class="paragraph-xxs">Ari Aster</p>
+                  </div>
+                </div>
+              </div>
+              <p data-film-field="year" class="paragraph-xxs">2018</p>
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items"><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Acting 5.0/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Directing 5.0/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Writing 4.5/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Cinematography 4.5/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Pacing 4.5/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Soundtrack 4.5/5</p></div></div>
+              </div>
+              <p data-film-field="disc-art-url" class="paragraph-xxs">https://raviklaassens.b-cdn.net/a24/films/hereditary/disc.webp?v=7</p>
+              <p data-film-field="disc-art-alt" class="paragraph-xxs">Hereditary disc artwork</p>
+              <a data-film-field="detail-url" href="/production/hereditary" class="w-inline-block"></a>
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items">
+                  <div data-review-source-item="" role="listitem" class="w-dyn-item">
+                    <p data-film-field="review-publication" class="paragraph-xxs">5HT Critic</p>
+                    <p data-film-field="review-testimonial" class="paragraph-xxs">A Masterclass in Modern Horror</p>
+                    <p data-film-field="review-stars" class="paragraph-xxs">5</p>
+                  </div>
+                </div>
+              </div>
+            </div><div data-film-item="" role="listitem" class="collection-item w-dyn-item">
+              <p data-film-field="title" class="paragraph-xxs">Lady Bird</p>
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items">
+                  <div role="listitem" class="w-dyn-item">
+                    <p data-film-field="directors" class="paragraph-xxs">Greta Gerwig</p>
+                  </div>
+                </div>
+              </div>
+              <p data-film-field="year" class="paragraph-xxs">2017</p>
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items"><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Acting 4.5/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Directing 4.5/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Writing 5.0/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Cinematography 4.0/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Pacing 4.5/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Soundtrack 4.0/5</p></div></div>
+              </div>
+              <p data-film-field="disc-art-url" class="paragraph-xxs">https://raviklaassens.b-cdn.net/a24/films/lady-bird/disc.webp?v=7</p>
+              <p data-film-field="disc-art-alt" class="paragraph-xxs">Lady Bird disc artwork</p>
+              <a data-film-field="detail-url" href="/production/lady-bird" class="w-inline-block"></a>
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items">
+                  <div data-review-source-item="" role="listitem" class="w-dyn-item">
+                    <p data-film-field="review-publication" class="paragraph-xxs">5HT Critic</p>
+                    <p data-film-field="review-testimonial" class="paragraph-xxs">Deeply Moving and Wondrously Real</p>
+                    <p data-film-field="review-stars" class="paragraph-xxs">4.5</p>
+                  </div>
+                </div>
+              </div>
+            </div><div data-film-item="" role="listitem" class="collection-item w-dyn-item">
+              <p data-film-field="title" class="paragraph-xxs">Ex Machina</p>
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items">
+                  <div role="listitem" class="w-dyn-item">
+                    <p data-film-field="directors" class="paragraph-xxs">Alex Garland</p>
+                  </div>
+                </div>
+              </div>
+              <p data-film-field="year" class="paragraph-xxs">2015</p>
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items"><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Acting 5.0/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Directing 4.5/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Writing 5.0/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Cinematography 4.5/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Pacing 4.5/5</p></div><div role="listitem" class="w-dyn-item"><p data-film-field="starring" class="paragraph-xxs">Soundtrack 4.5/5</p></div></div>
+              </div>
+              <p data-film-field="disc-art-url" class="paragraph-xxs">https://raviklaassens.b-cdn.net/a24/films/ex-machina/disc.webp?v=7</p>
+              <p data-film-field="disc-art-alt" class="paragraph-xxs">Ex Machina disc artwork</p>
+              <a data-film-field="detail-url" href="/production/ex-machina" class="w-inline-block"></a>
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items">
+                  <div data-review-source-item="" role="listitem" class="w-dyn-item">
+                    <p data-film-field="review-publication" class="paragraph-xxs">5HT Critic</p>
+                    <p data-film-field="review-testimonial" class="paragraph-xxs">A Flawlessly Calculated Sci-Fi Thriller</p>
+                    <p data-film-field="review-stars" class="paragraph-xxs">5</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+        </div>
+      </section>
+    </main>
+  </div>
+  
+  
+  
+
+ <script type="module" src="/_astro/ExportPage.astro_astro_type_script_index_0_lang.D2SkRVno.js?v=5ht-3"></script> </body></html>
