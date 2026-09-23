@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="preload" href="../background-utility.jpg" as="image" />
+    <style type="text/css">
+      /* Regular */
+      @font-face {
+        font-display: swap;
+        font-family: 'Handset Sans UI';
+        src: url('./fonts/HandsetSansUI-Regular.woff2') format('woff2');
+        font-weight: 400;
+        font-style: normal;
+      }
+
+      /* Bold */
+      @font-face {
+        font-display: swap;
+        font-family: 'Handset Sans UI';
+        src: url('./fonts/HandsetSansUI-Bold.woff2') format('woff2');
+        font-weight: 700;
+        font-style: normal;
+      }
+
+      html,
+      body {
+        height: 100%;
+        overflow: hidden;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        background-position: center;
+      }
+      body {
+        background-color: #000000;
+        background-image: url('../background-utility.jpg');
+        color: #ffffff;
+        padding: 0px 20px 0px 20px;
+      }
+
+      div {
+        position: relative;
+        margin: 0 auto;
+        width: 470px;
+        max-width: 100%;
+      }
+
+      div.logo {
+        height: 80px;
+        margin: 0px 0px 24px 0px;
+        width: 100%;
+      }
+
+      div.logo img {
+        display: block;
+        height: 22px;
+        margin: 0 auto;
+        padding: 29px 0px 29px 0px;
+        width: auto;
+      }
+
+      h1 {
+        font-family: 'Handset Sans UI', Arial, Helvetica, sans-serif;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 24px;
+        margin: 0px 0px 16px 0px;
+        text-align: center;
+      }
+
+      p {
+        font-family: 'Handset Sans UI', Arial, Helvetica, sans-serif;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 21px;
+        margin: 0px 0px 16px 0px;
+        text-align: center;
+      }
+
+      a {
+        color: #71b8f2;
+        font-weight: 500;
+        text-decoration: none;
+      }
+
+      a:visited {
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      @media only screen and (max-width: 440px) {
+        div.logo img {
+          height: 16px;
+          padding: 32px 0px 32px 0px;
+        }
+        h1 {
+          margin: 0px 0px 16px 0px;
+        }
+        p {
+          margin: 0px 0px 16px 0px;
+        }
+      }
+
+      @media only screen and (min-width: 1100px) {
+        h1 {
+          font-size: 28px;
+          line-height: 38px;
+        }
+        p {
+          font-size: 16px;
+          line-height: 24px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="logo"><!-- <image src="../logo-402x66.png" /> --></div>
+    <div>
+      <h1 id="header" dir="auto"></h1>
+      <p id="paragraph1" dir="auto"></p>
+      <p dir="auto"><a id="paragraph2" href="https://help.max.com/devices"></a></p>
+    </div>
+
+    <script type="text/javascript">
+      var translations = {
+        en: {
+          header: 'Browser Not Supported',
+          paragraph1: 'Please update your browser to the latest version or try a different browser.',
+          paragraph2: 'See supported browsers'
+        },
+        'bg-bg': {
+          header: 'Браузърът не се поддържа',
+          paragraph1:
+            'Актуализирайте браузъра си до най-новата му версия или пробвайте да използвате друг браузър.',
+          paragraph2: 'Вижте поддържаните браузъри'
+        },
+        'cs-cz': {
+          header: 'Nepodporovaný prohlížeč',
+          paragraph1: 'Aktualizujte svůj prohlížeč na nejnovější verzi nebo vyzkoušejte jiný prohlížeč.',
+          paragraph2: 'Zobrazit podporované prohlížeče'
+        },
+        'da-dk': {
+          header: 'Browseren understøttes ikke',
+          paragraph1: 'Opdater din browser til den nyeste version, eller prøv en anden browser.',
+          paragraph2: 'Se de understøttede browsere'
+        },
+        'es-es': {
+          header: 'Navegador no compatible',
+          paragraph1: 'Actualiza tu navegador a la última versión o prueba con un navegador distinto.',
+          paragraph2: 'Ver los navegadores compatibles'
+        },
+        'fi-fi': {
+          header: 'Selainta ei tueta',
+          paragraph1: 'Päivitä selaimesi uusimpaan versioon tai kokeile toista selainta.',
+          paragraph2: 'Katso tuetut selaimet'
+        },
+        'fil-ph': {
+          header: 'Hindi Sinusuportahan ang Browser',
+          paragraph1: 'I-update ang browser mo sa pinakabagong bersyon o sumubok ng ibang browser.',
+          paragraph2: 'Tingnan ang mga sinusuportahang browser'
+        },
+        'fr-fr': {
+          header: 'Navigateur non pris en charge',
+          paragraph1:
+            "Merci de mettre à jour votre navigateur vers la dernière version ou d'essayer un autre navigateur.",
+          paragraph2: 'Voir les navigateurs pris en charge'
+        },
+        'he-il': {
+          header: 'הדפדפן לא נתמך',
+          paragraph1: 'עדכנו את הדפדפן שלכם לגרסה האחרונה או נסו דפדפן אחר.',
+          paragraph2: 'ראו את רשימת הדפדפנים הנתמכים'
+        },
+        'hr-hr': {
+          header: 'Preglednik nije podržan',
+          paragraph1: 'Ažuriraj preglednik na najnoviju verziju ili pokušaj s drugim preglednikom.',
+          paragraph2: 'Pogledaj koji su preglednici podržani'
+        },
+        'hu-hu': {
+          header: 'A böngésződ nem támogatott',
+          paragraph1: 'Frissítsd böngésződet a legújabb verzióra vagy válts másik böngészőre.',
+          paragraph2: 'Támogatott böngészők listájának megtekintése'
+        },
+        'id-id': {
+          header: 'Browser Tidak Didukung',
+          paragraph1: 'Perbarui browser ke versi terbaru atau coba browser lain.',
+          paragraph2: 'Lihat browser yang didukung'
+        },
+        'mk-mk': {
+          header: 'Прелистувачот не е поддржан',
+          paragraph1:
+            'Ажурирајте го вашиот прелистувач на најновата верзија или обидете се со друг прелистувач.',
+          paragraph2: 'Видете ги поддржаните прелистувачи'
+        },
+        'ms-my': {
+          header: 'Pelayar Tidak Disokong',
+          paragraph1: 'Sila kemas kini pelayar anda kepada versi terkini atau cuba pelayar yang lain.',
+          paragraph2: 'Lihat pelayar yang disokong'
+        },
+        'nb-no': {
+          header: 'Nettleseren støttes ikke',
+          paragraph1: 'Oppdater nettleseren til den nyeste versjonen eller prøv en annen nettleser.',
+          paragraph2: 'Se støttede nettlesere'
+        },
+        'nl-nl': {
+          header: 'Browser wordt niet ondersteund',
+          paragraph1: 'Werk je browser bij of probeer een andere.',
+          paragraph2: 'Ondersteunde browsers bekijken'
+        },
+        'pl-pl': {
+          header: 'Przeglądarka nie jest obsługiwana',
+          paragraph1:
+            'Zaktualizuj swoją przeglądarkę do najnowszej wersji albo spróbuj użyć innej przeglądarki.',
+          paragraph2: 'Zobacz obsługiwane przeglądarki'
+        },
+        'pt-pt': {
+          header: 'Navegador não suportado',
+          paragraph1: 'Atualize o navegador ou tente utilizar um diferente.',
+          paragraph2: 'Consultar navegadores suportados'
+        },
+        'ro-ro': {
+          header: 'Browser neacceptat',
+          paragraph1: 'Actualizează-ți browserul la cea mai recentă versiune sau încearcă altul.',
+          paragraph2: 'Vezi browserele acceptate'
+        },
+        'sk-sk': {
+          header: 'Prehliadač nie je podporovaný',
+          paragraph1: 'Aktualizujte svoj prehliadač na najnovšiu verziu alebo vyskúšajte iný.',
+          paragraph2: 'Zobraziť podporované prehliadače'
+        },
+        'sl-si': {
+          header: 'Brskalnik ni podprt',
+          paragraph1: 'Svoj brskalnik posodobi na najnovejšo različico ali poskusi uporabiti drug brskalnik.',
+          paragraph2: 'Oglej si podprte brskalnike'
+        },
+        'sr-latn-rs': {
+          header: 'Pregledač nije podržan',
+          paragraph1: 'Ažuriraj pregledač na najnoviju verziju ili pokušaj sa drugim pregledačem.',
+          paragraph2: 'Pogledaj podržane pregledače'
+        },
+        'sv-se': {
+          header: 'Webbläsaren stöds inte',
+          paragraph1:
+            'Uppdatera din webbläsare till den senaste versionen eller prova med en annan webbläsare.',
+          paragraph2: 'Se webbläsare som stöds'
+        },
+        'th-th': {
+          header: 'ไม่รองรับเบราว์เซอร์นี้',
+          paragraph1: 'โปรดอัปเดตเบราว์เซอร์ของคุณเป็นเวอร์ชันล่าสุดหรือลองใช้เบราว์เซอร์อื่น',
+          paragraph2: 'ดูเบราว์เซอร์ที่รองรับ'
+        },
+        'tr-tr': {
+          header: 'Tarayıcı Desteklenmiyor',
+          paragraph1: 'Lütfen tarayıcınızı en son sürüme güncelleyin veya farklı bir tarayıcı deneyin.',
+          paragraph2: 'Desteklenen tarayıcıları görün'
+        },
+        'zh-sg': {
+          header: '浏览器不受支持',
+          paragraph1: '请更新您的浏览器至最新版本，或尝试使用其他浏览器。',
+          paragraph2: '查看受支持的浏览器'
+        },
+        'zh-hk': {
+          header: '瀏覽器不受支援',
+          paragraph1: '請將瀏覽器更新至最新版本，或者嘗試使用其他瀏覽器。',
+          paragraph2: '查看支援的瀏覽器'
+        },
+        'zh-tw': {
+          header: '不支援的瀏覽器',
+          paragraph1: '請更新您的瀏覽器至最新版本，或嘗試使用其他瀏覽器。',
+          paragraph2: '請參閱支援的瀏覽器'
+        }
+      };
+
+      // add fallbacks, pt for pt-BR etc..
+      for (locale in translations) {
+        if (locale.indexOf('-') > 0) {
+          var genericLocale = locale.split('-')[0];
+          if (!translations[genericLocale]) {
+            translations[genericLocale] = translations[locale];
+          }
+        }
+      }
+
+      // this code snippet is from navigator-languages package, this is cross-browser code to get accepted languages
+      var getNavigatorLanguages = function () {
+        if (typeof navigator === 'object') {
+          var t = 'anguage',
+            n = navigator,
+            f;
+          f = n['l' + t + 's'];
+          return (
+            f && f.length ? f : (t = n['l' + t] || n['browserL' + t] || n['userL' + t]) ? [t] : t
+          ).slice();
+        }
+      };
+
+      var res;
+      var languages = getNavigatorLanguages();
+      // Ensure es-ES goes before es to get specific locale
+      languages.sort();
+      languages.reverse();
+
+      for (var i = 0; i < languages.length; i++) {
+        var language = languages[i].toLowerCase();
+        if (translations[language]) {
+          res = language;
+
+          break;
+        }
+      }
+
+      if (!res) {
+        // no matches, use English
+        res = 'en';
+      }
+
+      var strings = translations[res];
+      document.getElementById('header').innerText = strings['header'];
+      document.getElementById('paragraph1').innerText = strings['paragraph1'];
+      document.getElementById('paragraph2').innerText = strings['paragraph2'];
+    </script>
+  </body>
+</html>

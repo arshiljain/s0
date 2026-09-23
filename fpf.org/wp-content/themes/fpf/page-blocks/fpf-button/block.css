@@ -1,0 +1,135 @@
+.fpf-button,
+input[type="submit"].gform_button,
+.eventbrite-proceed-to-register,
+.uagb-cta__buttons a,
+.facetwp-reset {
+	leading-trim: both;
+	text-edge: cap;
+	font-feature-settings: 'liga' off, 'clig' off;
+	font-family: "Proxima Nova";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 20px;
+	letter-spacing: 0.25px;
+	display: inline-flex;
+	align-items: center;
+	gap: 8px;
+	text-decoration: none;
+	text-align: center;
+	width: fit-content !important;
+	cursor: pointer;
+}
+.fpf-button.aligncenter,
+.fpf-button.alignleft,
+.fpf-button.alignright {
+	display: flex !important;
+	width: fit-content !important;
+}
+input[type="submit"].gform_button,
+.eventbrite-proceed-to-register,
+.facetwp-reset,
+.uagb-cta__buttons a,
+.fpf-button-type__button-type--pill {
+	padding: 24px 32px !important;
+	border-radius: 100px !important;
+	transition: transform 0.3s;
+	border: 0 !important;
+}
+input[type="submit"].gform_button:hover,
+.facetwp-reset:hover,
+.eventbrite-proceed-to-register:hover,
+.uagb-cta__buttons a:hover,
+.fpf-button-type__button-type--pill:hover {
+	transform: translateY(-4px);
+}
+
+.eventbrite-proceed-to-register,
+input[type="submit"].gform_button,
+.uagb-cta__buttons a,
+.fpf-button__color-scheme--navy_white {
+	background-color: #004A8B !important;
+	color: white !important;
+}
+.facetwp-reset,
+.fpf-button__color-scheme--cyan_black {
+	background-color: #01B8FC !important;
+	color: black !important;
+}
+.fpf-button__color-scheme--white {
+	color: white !important;
+}
+.fpf-button__color-scheme--navy {
+	color: #004A8B !important;
+}
+.fpf-button__color-scheme--black {
+	color: black !important;
+}
+
+.fpf-button__arrow-icon--none {
+
+}
+.fpf-button__arrow-icon--small {
+	
+}
+
+.fpf-button.disabled {
+	pointer-events: none;
+}
+
+.fpf-button-type__button-type--pill.fpf-button__arrow-icon--large {
+	padding: 14px 22px !important;
+}
+.fpf-button-type__button-type--pill.fpf-button__arrow-icon--large svg,
+.fpf-button-type__button-type--text svg {
+	transition: transform 0.3s;
+}
+.fpf-button-type__button-type--pill.fpf-button__arrow-icon--large:hover svg {
+	transform: translateX(6px);
+}
+.fpf-button-type__button-type--text:hover svg {
+	transform: translateX(6px);
+}
+
+.fpf-button__arrow-icon--large.fpf-button__color-scheme--navy_white .fpf-button__arrow-icon__large__circle {
+	fill: #01B8FC;	
+}
+.fpf-button__arrow-icon--large.fpf-button__color-scheme--navy_white .fpf-button__arrow-icon__large__arrow {
+	fill: #FFFFFF;
+}
+.fpf-button__arrow-icon--large.fpf-button__color-scheme--cyan_black .fpf-button__arrow-icon__large__circle {
+	fill: #000000;	
+}
+.fpf-button__arrow-icon--large.fpf-button__color-scheme--cyan_black .fpf-button__arrow-icon__large__arrow {
+	fill: #FFFFFF;
+}
+.fpf-button-type__button-type--text {
+	border-bottom-width: 1px !important;
+	border-bottom-style: dashed !important;
+}
+.fpf-button-type__button-type--text:hover {
+	border-bottom-style: solid !important;
+}
+.fpf-button-type__button-type--text.fpf-button__color-scheme--white {
+	border-bottom-color: white !important;
+}
+.fpf-button-type__button-type--text.fpf-button__color-scheme--navy {
+	border-bottom-color: #004A8B !important;
+}
+.fpf-button-type__button-type--text.fpf-button__color-scheme--black {
+	border-bottom-color: black !important;
+}
+
+
+.uagb-cta__buttons a svg {
+	display: none !important;
+}
+/* For the admin side in the editor */
+.wp-block-acf-fpf-button.aligncenter,
+.wp-block-acf-fpf-button.alignleft,
+.wp-block-acf-fpf-button.alignright {
+	width: fit-content !important;
+}
+.wp-block-acf-fpf-button a {
+	text-decoration: none !important;
+}

@@ -1,0 +1,1 @@
+(function(b){var c=window.AmazonUIPageJS||window.P,d=c._namespace||c.attributeErrors,a=d?d("AmazonEmberModernFontAssets",""):c;a.guardFatal?a.guardFatal(b)(a,window):a.execute(function(){b(a,window)})})(function(b,c,d){b.when("prv:a-custom-font-loader").execute("a-ember-modern-loader",function(a){a("a-ember-modern",["bold 1em Amazon Ember Modern"])})});

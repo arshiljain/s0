@@ -1,0 +1,1 @@
+const n=n=>(n=>!!n.matchMedia&&n.matchMedia("(any-pointer:coarse)").matches)(n),i=i=>!n(i);window.IntersectionObserverEntry&&window.IntersectionObserverEntry.prototype&&!("isIntersecting"in window.IntersectionObserverEntry.prototype)&&(window.IntersectionObserverEntry.prototype.isIntersecting=function(){return this.intersectionRatio>0});export{i as a,n as i}

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 28 28" xml:space="preserve">
+  <defs>
+    <path id="social-links-default-path" d="M.5.5h27v27H.5z"/>
+  </defs>
+  <clipPath id="social-links-default-clip-path">
+    <use xlink:href="#social-links-default-path" overflow="visible"/>
+  </clipPath>
+  <g clip-path="url(#social-links-default-clip-path)">
+    <path fill="#1c2b33" d="M25.6 2.4c-2.5-2.5-6.5-2.5-8.9 0l-5.3 5.3c-2.6 2.6-2.3 6.6 0 8.9.4.4.8.7 1.3 1l1-1c.6-.6.4-1.4.4-1.9-.1-.1-.3-.2-.4-.3-1.2-1.2-1.2-3.2 0-4.5L19 4.6c1.2-1.2 3.2-1.2 4.5 0 1.2 1.2 1.2 3.2 0 4.5L20 12.6c.1.6.7 1.9.4 4.1l5.3-5.3c2.4-2.6 2.4-6.6-.1-9z"/>
+    <path fill="#1c2b33" d="M17 11c-.4-.4-.8-.7-1.3-1l-1 1c-.6.6-.4 1.4-.4 1.9.1.1.3.2.4.3 1.2 1.2 1.2 3.2 0 4.5L9 23.4c-1.2 1.2-3.2 1.2-4.5 0-1.2-1.2-1.2-3.2 0-4.5l4-3.9c-.1-.6-.7-1.9-.4-4.1l-5.7 5.7c-2.5 2.5-2.5 6.5 0 8.9 2.5 2.5 6.5 2.5 8.9 0l5.7-5.7c2.5-2.4 2.4-6.4 0-8.8z"/>
+  </g>
+</svg>

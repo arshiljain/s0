@@ -1,0 +1,1 @@
+'use strict';mix_d("AmazonHomepageIndependentCards__single-creative-card:single-creative-card__zjEjHX96/es3","exports tslib @c/scoped-dom @c/tracking @c/logger ./es3@client @c/aui-utils @c/metrics".split(" "),function(a,c,d,e,f,b,g,h){a._operationNames=b._operationNames;a.card=b.card;a.resetCreativeCardTrackingFlag=b.resetCreativeCardTrackingFlag});

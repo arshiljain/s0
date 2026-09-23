@@ -1,0 +1,1 @@
+window.BDS=window.BDS||{};window.BDS.BOOKS_UBF_IMAGE_QUALITY_EXPERIMENT_1408963="C";window.dispatchEvent(new Event("BOOKS_UBF_IMAGE_QUALITY_EXPERIMENT_1408963"));

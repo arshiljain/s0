@@ -1,0 +1,1 @@
+'use strict';mix_d("AmazonLuxuryWidgetCards__lux-bi-editorial-desktop:lux-bi-editorial-desktop__prB7fNR4",["exports","tslib"],function(a,b){a._operationNames=[];a.card=function(){return b.__awaiter(void 0,void 0,void 0,function(){return b.__generator(this,function(c){return[2,Promise.resolve()]})})}});

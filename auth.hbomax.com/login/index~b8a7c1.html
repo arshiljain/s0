@@ -1,0 +1,322 @@
+<!DOCTYPE html><html><head>
+    <link rel="preload" href="https://auth.hbomax.com/background-utility.jpg" as="image">
+    <style type="text/css">
+      /* Regular */
+      @font-face {
+        font-display: swap;
+        font-family: 'Handset Sans UI';
+        src: url('https://auth.hbomax.com/fonts/HandsetSansUI-Regular.woff2') format('woff2');
+        font-weight: 400;
+        font-style: normal;
+      }
+
+      /* Bold */
+      @font-face {
+        font-display: swap;
+        font-family: 'Handset Sans UI';
+        src: url('https://auth.hbomax.com/fonts/HandsetSansUI-Bold.woff2') format('woff2');
+        font-weight: 700;
+        font-style: normal;
+      }
+
+      html,
+      body {
+        height: 100%;
+        overflow: hidden;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        background-position: center;
+      }
+      body {
+        background-color: #000000;
+        background-image: url('https://auth.hbomax.com/background-utility.jpg');
+        color: #ffffff;
+        padding: 0px 20px 0px 20px;
+      }
+
+      div {
+        position: relative;
+        margin: 0 auto;
+        width: 470px;
+        max-width: 100%;
+      }
+
+      div.logo {
+        height: 80px;
+        margin: 0px 0px 24px 0px;
+        width: 100%;
+      }
+
+      div.logo img {
+        display: block;
+        height: 22px;
+        margin: 0 auto;
+        padding: 29px 0px 29px 0px;
+        width: auto;
+      }
+
+      h1 {
+        font-family: 'Handset Sans UI', Arial, Helvetica, sans-serif;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 24px;
+        margin: 0px 0px 16px 0px;
+        text-align: center;
+      }
+
+      p {
+        font-family: 'Handset Sans UI', Arial, Helvetica, sans-serif;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 21px;
+        margin: 0px 0px 16px 0px;
+        text-align: center;
+      }
+
+      a {
+        color: #71b8f2;
+        font-weight: 500;
+        text-decoration: none;
+      }
+
+      a:visited {
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      @media only screen and (max-width: 440px) {
+        div.logo img {
+          height: 16px;
+          padding: 32px 0px 32px 0px;
+        }
+        h1 {
+          margin: 0px 0px 16px 0px;
+        }
+        p {
+          margin: 0px 0px 16px 0px;
+        }
+      }
+
+      @media only screen and (min-width: 1100px) {
+        h1 {
+          font-size: 28px;
+          line-height: 38px;
+        }
+        p {
+          font-size: 16px;
+          line-height: 24px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="logo"><!-- <image src="../logo-402x66.png" /> --></div>
+    <div>
+      <h1 id="header" dir="auto">Browser Not Supported</h1>
+      <p id="paragraph1" dir="auto">Please update your browser to the latest version or try a different browser.</p>
+      <p dir="auto"><a id="paragraph2" href="../../help.max.com/devices/index.html">See supported browsers</a></p>
+    </div>
+
+    <script type="text/javascript">
+      var translations = {
+        en: {
+          header: 'Browser Not Supported',
+          paragraph1: 'Please update your browser to the latest version or try a different browser.',
+          paragraph2: 'See supported browsers'
+        },
+        'bg-bg': {
+          header: 'Ð‘Ñ€Ð°ÑƒÐ·ÑŠÑ€ÑŠÑ‚ Ð½Ðµ ÑÐµ Ð¿Ð¾Ð´Ð´ÑŠÑ€Ð¶Ð°',
+          paragraph1:
+            'ÐÐºÑ‚ÑƒÐ°Ð»Ð¸Ð·Ð¸Ñ€Ð°Ð¹Ñ‚Ðµ Ð±Ñ€Ð°ÑƒÐ·ÑŠÑ€Ð° ÑÐ¸ Ð´Ð¾ Ð½Ð°Ð¹-Ð½Ð¾Ð²Ð°Ñ‚Ð° Ð¼Ñƒ Ð²ÐµÑ€ÑÐ¸Ñ Ð¸Ð»Ð¸ Ð¿Ñ€Ð¾Ð±Ð²Ð°Ð¹Ñ‚Ðµ Ð´Ð° Ð¸Ð·Ð¿Ð¾Ð»Ð·Ð²Ð°Ñ‚Ðµ Ð´Ñ€ÑƒÐ³ Ð±Ñ€Ð°ÑƒÐ·ÑŠÑ€.',
+          paragraph2: 'Ð’Ð¸Ð¶Ñ‚Ðµ Ð¿Ð¾Ð´Ð´ÑŠÑ€Ð¶Ð°Ð½Ð¸Ñ‚Ðµ Ð±Ñ€Ð°ÑƒÐ·ÑŠÑ€Ð¸'
+        },
+        'cs-cz': {
+          header: 'NepodporovanÃ½ prohlÃ­Å¾eÄ',
+          paragraph1: 'Aktualizujte svÅ¯j prohlÃ­Å¾eÄ na nejnovÄ›jÅ¡Ã­ verzi nebo vyzkouÅ¡ejte jinÃ½ prohlÃ­Å¾eÄ.',
+          paragraph2: 'Zobrazit podporovanÃ© prohlÃ­Å¾eÄe'
+        },
+        'da-dk': {
+          header: 'Browseren understÃ¸ttes ikke',
+          paragraph1: 'Opdater din browser til den nyeste version, eller prÃ¸v en anden browser.',
+          paragraph2: 'Se de understÃ¸ttede browsere'
+        },
+        'es-es': {
+          header: 'Navegador no compatible',
+          paragraph1: 'Actualiza tu navegador a la Ãºltima versiÃ³n o prueba con un navegador distinto.',
+          paragraph2: 'Ver los navegadores compatibles'
+        },
+        'fi-fi': {
+          header: 'Selainta ei tueta',
+          paragraph1: 'PÃ¤ivitÃ¤ selaimesi uusimpaan versioon tai kokeile toista selainta.',
+          paragraph2: 'Katso tuetut selaimet'
+        },
+        'fil-ph': {
+          header: 'Hindi Sinusuportahan ang Browser',
+          paragraph1: 'I-update ang browser mo sa pinakabagong bersyon o sumubok ng ibang browser.',
+          paragraph2: 'Tingnan ang mga sinusuportahang browser'
+        },
+        'fr-fr': {
+          header: 'Navigateur non pris en charge',
+          paragraph1:
+            "Merci de mettre Ã  jour votre navigateur vers la derniÃ¨re version ou d'essayer un autre navigateur.",
+          paragraph2: 'Voir les navigateurs pris en charge'
+        },
+        'he-il': {
+          header: '×”×“×¤×“×¤×Ÿ ×œ× × ×ª×ž×š',
+          paragraph1: '×¢×“×›× ×• ××ª ×”×“×¤×“×¤×Ÿ ×©×œ×›× ×œ×’×¨×¡×” ×”××—×¨×•× ×” ××• × ×¡×• ×“×¤×“×¤×Ÿ ××—×¨.',
+          paragraph2: '×¨××• ××ª ×¨×©×™×ž×ª ×”×“×¤×“×¤× ×™× ×”× ×ª×ž×›×™×'
+        },
+        'hr-hr': {
+          header: 'Preglednik nije podrÅ¾an',
+          paragraph1: 'AÅ¾uriraj preglednik na najnoviju verziju ili pokuÅ¡aj s drugim preglednikom.',
+          paragraph2: 'Pogledaj koji su preglednici podrÅ¾ani'
+        },
+        'hu-hu': {
+          header: 'A bÃ¶ngÃ©szÅ‘d nem tÃ¡mogatott',
+          paragraph1: 'FrissÃ­tsd bÃ¶ngÃ©szÅ‘det a legÃºjabb verziÃ³ra vagy vÃ¡lts mÃ¡sik bÃ¶ngÃ©szÅ‘re.',
+          paragraph2: 'TÃ¡mogatott bÃ¶ngÃ©szÅ‘k listÃ¡jÃ¡nak megtekintÃ©se'
+        },
+        'id-id': {
+          header: 'Browser Tidak Didukung',
+          paragraph1: 'Perbarui browser ke versi terbaru atau coba browser lain.',
+          paragraph2: 'Lihat browser yang didukung'
+        },
+        'mk-mk': {
+          header: 'ÐŸÑ€ÐµÐ»Ð¸ÑÑ‚ÑƒÐ²Ð°Ñ‡Ð¾Ñ‚ Ð½Ðµ Ðµ Ð¿Ð¾Ð´Ð´Ñ€Ð¶Ð°Ð½',
+          paragraph1:
+            'ÐÐ¶ÑƒÑ€Ð¸Ñ€Ð°Ñ˜Ñ‚Ðµ Ð³Ð¾ Ð²Ð°ÑˆÐ¸Ð¾Ñ‚ Ð¿Ñ€ÐµÐ»Ð¸ÑÑ‚ÑƒÐ²Ð°Ñ‡ Ð½Ð° Ð½Ð°Ñ˜Ð½Ð¾Ð²Ð°Ñ‚Ð° Ð²ÐµÑ€Ð·Ð¸Ñ˜Ð° Ð¸Ð»Ð¸ Ð¾Ð±Ð¸Ð´ÐµÑ‚Ðµ ÑÐµ ÑÐ¾ Ð´Ñ€ÑƒÐ³ Ð¿Ñ€ÐµÐ»Ð¸ÑÑ‚ÑƒÐ²Ð°Ñ‡.',
+          paragraph2: 'Ð’Ð¸Ð´ÐµÑ‚Ðµ Ð³Ð¸ Ð¿Ð¾Ð´Ð´Ñ€Ð¶Ð°Ð½Ð¸Ñ‚Ðµ Ð¿Ñ€ÐµÐ»Ð¸ÑÑ‚ÑƒÐ²Ð°Ñ‡Ð¸'
+        },
+        'ms-my': {
+          header: 'Pelayar Tidak Disokong',
+          paragraph1: 'Sila kemas kini pelayar anda kepada versi terkini atau cuba pelayar yang lain.',
+          paragraph2: 'Lihat pelayar yang disokong'
+        },
+        'nb-no': {
+          header: 'Nettleseren stÃ¸ttes ikke',
+          paragraph1: 'Oppdater nettleseren til den nyeste versjonen eller prÃ¸v en annen nettleser.',
+          paragraph2: 'Se stÃ¸ttede nettlesere'
+        },
+        'nl-nl': {
+          header: 'Browser wordt niet ondersteund',
+          paragraph1: 'Werk je browser bij of probeer een andere.',
+          paragraph2: 'Ondersteunde browsers bekijken'
+        },
+        'pl-pl': {
+          header: 'PrzeglÄ…darka nie jest obsÅ‚ugiwana',
+          paragraph1:
+            'Zaktualizuj swojÄ… przeglÄ…darkÄ™ do najnowszej wersji albo sprÃ³buj uÅ¼yÄ‡ innej przeglÄ…darki.',
+          paragraph2: 'Zobacz obsÅ‚ugiwane przeglÄ…darki'
+        },
+        'pt-pt': {
+          header: 'Navegador nÃ£o suportado',
+          paragraph1: 'Atualize o navegador ou tente utilizar um diferente.',
+          paragraph2: 'Consultar navegadores suportados'
+        },
+        'ro-ro': {
+          header: 'Browser neacceptat',
+          paragraph1: 'ActualizeazÄƒ-È›i browserul la cea mai recentÄƒ versiune sau Ã®ncearcÄƒ altul.',
+          paragraph2: 'Vezi browserele acceptate'
+        },
+        'sk-sk': {
+          header: 'PrehliadaÄ nie je podporovanÃ½',
+          paragraph1: 'Aktualizujte svoj prehliadaÄ na najnovÅ¡iu verziu alebo vyskÃºÅ¡ajte inÃ½.',
+          paragraph2: 'ZobraziÅ¥ podporovanÃ© prehliadaÄe'
+        },
+        'sl-si': {
+          header: 'Brskalnik ni podprt',
+          paragraph1: 'Svoj brskalnik posodobi na najnovejÅ¡o razliÄico ali poskusi uporabiti drug brskalnik.',
+          paragraph2: 'Oglej si podprte brskalnike'
+        },
+        'sr-latn-rs': {
+          header: 'PregledaÄ nije podrÅ¾an',
+          paragraph1: 'AÅ¾uriraj pregledaÄ na najnoviju verziju ili pokuÅ¡aj sa drugim pregledaÄem.',
+          paragraph2: 'Pogledaj podrÅ¾ane pregledaÄe'
+        },
+        'sv-se': {
+          header: 'WebblÃ¤saren stÃ¶ds inte',
+          paragraph1:
+            'Uppdatera din webblÃ¤sare till den senaste versionen eller prova med en annan webblÃ¤sare.',
+          paragraph2: 'Se webblÃ¤sare som stÃ¶ds'
+        },
+        'th-th': {
+          header: 'à¹„à¸¡à¹ˆà¸£à¸­à¸‡à¸£à¸±à¸šà¹€à¸šà¸£à¸²à¸§à¹Œà¹€à¸‹à¸­à¸£à¹Œà¸™à¸µà¹‰',
+          paragraph1: 'à¹‚à¸›à¸£à¸”à¸­à¸±à¸›à¹€à¸”à¸•à¹€à¸šà¸£à¸²à¸§à¹Œà¹€à¸‹à¸­à¸£à¹Œà¸‚à¸­à¸‡à¸„à¸¸à¸“à¹€à¸›à¹‡à¸™à¹€à¸§à¸­à¸£à¹Œà¸Šà¸±à¸™à¸¥à¹ˆà¸²à¸ªà¸¸à¸”à¸«à¸£à¸·à¸­à¸¥à¸­à¸‡à¹ƒà¸Šà¹‰à¹€à¸šà¸£à¸²à¸§à¹Œà¹€à¸‹à¸­à¸£à¹Œà¸­à¸·à¹ˆà¸™',
+          paragraph2: 'à¸”à¸¹à¹€à¸šà¸£à¸²à¸§à¹Œà¹€à¸‹à¸­à¸£à¹Œà¸—à¸µà¹ˆà¸£à¸­à¸‡à¸£à¸±à¸š'
+        },
+        'tr-tr': {
+          header: 'TarayÄ±cÄ± Desteklenmiyor',
+          paragraph1: 'LÃ¼tfen tarayÄ±cÄ±nÄ±zÄ± en son sÃ¼rÃ¼me gÃ¼ncelleyin veya farklÄ± bir tarayÄ±cÄ± deneyin.',
+          paragraph2: 'Desteklenen tarayÄ±cÄ±larÄ± gÃ¶rÃ¼n'
+        },
+        'zh-sg': {
+          header: 'æµè§ˆå™¨ä¸å—æ”¯æŒ',
+          paragraph1: 'è¯·æ›´æ–°æ‚¨çš„æµè§ˆå™¨è‡³æœ€æ–°ç‰ˆæœ¬ï¼Œæˆ–å°è¯•ä½¿ç”¨å…¶ä»–æµè§ˆå™¨ã€‚',
+          paragraph2: 'æŸ¥çœ‹å—æ”¯æŒçš„æµè§ˆå™¨'
+        },
+        'zh-hk': {
+          header: 'ç€è¦½å™¨ä¸å—æ”¯æ´',
+          paragraph1: 'è«‹å°‡ç€è¦½å™¨æ›´æ–°è‡³æœ€æ–°ç‰ˆæœ¬ï¼Œæˆ–è€…å˜—è©¦ä½¿ç”¨å…¶ä»–ç€è¦½å™¨ã€‚',
+          paragraph2: 'æŸ¥çœ‹æ”¯æ´çš„ç€è¦½å™¨'
+        },
+        'zh-tw': {
+          header: 'ä¸æ”¯æ´çš„ç€è¦½å™¨',
+          paragraph1: 'è«‹æ›´æ–°æ‚¨çš„ç€è¦½å™¨è‡³æœ€æ–°ç‰ˆæœ¬ï¼Œæˆ–å˜—è©¦ä½¿ç”¨å…¶ä»–ç€è¦½å™¨ã€‚',
+          paragraph2: 'è«‹åƒé–±æ”¯æ´çš„ç€è¦½å™¨'
+        }
+      };
+
+      // add fallbacks, pt for pt-BR etc..
+      for (locale in translations) {
+        if (locale.indexOf('-') > 0) {
+          var genericLocale = locale.split('-')[0];
+          if (!translations[genericLocale]) {
+            translations[genericLocale] = translations[locale];
+          }
+        }
+      }
+
+      // this code snippet is from navigator-languages package, this is cross-browser code to get accepted languages
+      var getNavigatorLanguages = function () {
+        if (typeof navigator === 'object') {
+          var t = 'anguage',
+            n = navigator,
+            f;
+          f = n['l' + t + 's'];
+          return (
+            f && f.length ? f : (t = n['l' + t] || n['browserL' + t] || n['userL' + t]) ? [t] : t
+          ).slice();
+        }
+      };
+
+      var res;
+      var languages = getNavigatorLanguages();
+      // Ensure es-ES goes before es to get specific locale
+      languages.sort();
+      languages.reverse();
+
+      for (var i = 0; i < languages.length; i++) {
+        var language = languages[i].toLowerCase();
+        if (translations[language]) {
+          res = language;
+
+          break;
+        }
+      }
+
+      if (!res) {
+        // no matches, use English
+        res = 'en';
+      }
+
+      var strings = translations[res];
+      document.getElementById('header').innerText = strings['header'];
+      document.getElementById('paragraph1').innerText = strings['paragraph1'];
+      document.getElementById('paragraph2').innerText = strings['paragraph2'];
+    </script>
+  
+
+</body></html>

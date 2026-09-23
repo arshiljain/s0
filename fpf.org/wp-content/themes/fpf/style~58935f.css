@@ -1,0 +1,150 @@
+/*
+Theme Name: Future of Privacy Forum
+Author: 4Site Interactive Studios
+Author URI: https://4sitestudios.com/
+Description: Custom theme built for FPF
+Version: 1.0
+Text Domain: fpf
+*/
+
+.footer a {
+	cursor: pointer !important;
+}
+.fpf-featured-posts-block .fpf-featured-posts-block__post .fpf-featured-posts-block__text-column__link_arrow {
+	gap: 8px;
+}
+.fpf-featured-posts-block .fpf-featured-posts-block__post .fpf-featured-posts-block__text-column__arrow {
+	opacity: 1;
+}
+.fpf-featured-posts-block .splide__slide.is-active.is-visible:hover .fpf-featured-posts-block__post .fpf-featured-posts-block__text-column__link {
+	border-bottom: none!important;
+}
+.fpf-featured-posts-block__text-column__author {
+	display: flex;
+}
+.fpf-featured-posts-block__text-column__author span + span:before {
+ content: "|";
+ padding: 0 8px;
+}
+
+
+.content-sidebar .subscribe-form__form input[name="s"] {
+	height: 48px;
+	font-weight: 700;
+	font-size: 16px;
+	color: #231f23;
+	padding: 0 16px 0 15px;
+	background-color: #fff;
+	border: none;	
+}
+.content-sidebar .subscribe-form__form input[name="s"]::placeholder {
+	color: #bbbdbf;
+}
+.content-sidebar .subscribe-form__form button[type="submit"] {
+	height: 48px;
+	width: 58px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 0;
+	background-color: #01a8e6;
+	border: 0;
+	font-size: 22px;
+}
+.content-sidebar .subscribe-form__form button[type="submit"]:hover {
+	background-color: white;
+	color: #01a8e6;
+}
+@media (min-width: 991px) {
+	.search-results .content-left {
+		max-width: 70%;
+	}
+}
+
+.fpf-featured-event__event-type-tag,
+.fpf-loop-event__event-type-tag {
+	background-color: #004A8B;
+	color: #ffffff;
+	padding: 4px 8px;
+	font-size: 16px;
+	letter-spacing: 0.89px;
+	font-weight: 900;
+	border-radius: 4px;
+	width: fit-content;
+	margin-bottom: 12px;
+	border: 1px solid white;
+}
+.fpf-loop-event__event-type-tag:hover {
+	background-color: white;
+	color: #004A8B;
+	border: 1px solid #004A8B;
+}
+.facetwp-checkbox .facetwp-display-value {
+	width: min-content;
+	min-width: 60%;
+}
+.facetwp-type-checkboxes .facetwp-depth.visible {
+    display: inline-flex !important;
+}
+.facetwp-depth .facetwp-checkbox {
+    margin-top: 0;
+}
+.facetwp-depth .facetwp-checkbox .facetwp-display-value {
+    min-width: 60%;
+    width: fit-content;
+}
+
+/*
+.spotlight__img img {
+	display: none!important;
+}
+*/
+
+/* Footer column menus -----------------------------------------------------
+   Two content-width columns sitting between the Related Sites row and the logo
+   row. Rules live here rather than in css/style.css because this sheet is
+   enqueued last, so they win the cascade over .footer__container without
+   needing !important. */
+.footer__container--columns {
+	display: flex;
+	align-items: flex-start;
+	/* columns sit next to each other at the left, each only as wide as its links */
+	justify-content: flex-start;
+	gap: 30px;
+	margin-bottom: 35px;
+}
+
+.footer__column-links {
+	display: flex;
+	/* one link per line, so each menu reads as a column of links */
+	flex-direction: column;
+	flex-wrap: nowrap;
+	gap: 10px;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.footer__column-links a {
+	font-size: 16px;
+}
+
+/* Mobile: keep the two columns side by side. .footer__container is set to
+   display:block below 480px in css/style.css; this overrides that for the
+   column row only. */
+@media (max-width: 640px) {
+	.footer__container--columns {
+		display: flex;
+		gap: 20px;
+	}
+}
+
+/* Related Sites row with no Related Sites menu ----------------------------
+   .footer__container is justify-content: space-between, so once the Related
+   Sites block is gone the social links are the only child and fall to the
+   left. Push them back to the right edge. Below 768px the row is
+   flex-direction: column (and display: block below 480px), where a single
+   child makes this a no-op, so no media query is needed. */
+.footer__container--social-only {
+	justify-content: flex-end;
+}

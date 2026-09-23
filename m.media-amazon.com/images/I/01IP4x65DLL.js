@@ -1,0 +1,1 @@
+window.BDS=window.BDS||{};window.BDS.BOOKS_UBF_METADATA_BADGE_MVT_1401984="C";window.dispatchEvent(new Event("BOOKS_UBF_METADATA_BADGE_MVT_1401984"));

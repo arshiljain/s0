@@ -1,0 +1,1 @@
+window.BDS=window.BDS||{};

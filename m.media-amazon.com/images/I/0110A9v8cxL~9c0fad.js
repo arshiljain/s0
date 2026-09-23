@@ -1,0 +1,2 @@
+'use strict';mix_d("PrimeAcquisitionCXCards__slash-prime-benefit-widget-desktop-card:slash-prime-benefit-widget-desktop-card__7dp776kJ",["exports","tslib","@c/scoped-dom"],function(c,d,a){var f=a&&"object"===typeof a&&"default"in a?a:{"default":a},g={};c._operationNames=[];c.card=function(){return d.__awaiter(void 0,void 0,void 0,function(){var b,e;return d.__generator(this,function(h){if(b=f["default"].cardRoot.getElementsByClassName(g.clientUpdate)[0])e=b.dataset.subject,b.innerText="Enjoy using "+
+e+"!";return[2]})})}});

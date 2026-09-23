@@ -1,0 +1,12 @@
+<svg width="350" height="350" xmlns="http://www.w3.org/2000/svg">
+ <!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
+
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="352" height="352" id="canvas_background" fill="#3c5998"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path stroke="null" d="m222.376456,187.724914l5.654635,-36.846587l-35.355386,0l0,-23.910911c0,-10.080523 4.938857,-19.906543 20.773429,-19.906543l16.073158,0l0,-31.370893s-14.585936,-2.489314 -28.531649,-2.489314c-29.1162,0 -48.147906,17.647871 -48.147906,49.595364l0,28.082303l-32.365027,0l0,36.846587l32.365027,0l0,89.074414l39.832967,0l0,-89.074414l29.700751,0l0,-0.000007z" id="svg_1" fill="#ffffff"/>
+ </g>
+</svg>

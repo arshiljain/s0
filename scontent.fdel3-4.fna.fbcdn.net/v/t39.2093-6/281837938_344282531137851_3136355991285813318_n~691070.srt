@@ -1,0 +1,192 @@
+1
+00:00:00,310 --> 00:00:02,520
+- [Narrator] At Meta, we use
+information to provide you
+
+2
+00:00:02,520 --> 00:00:05,500
+with a more personal, secure,
+and meaningful experience.
+
+3
+00:00:05,500 --> 00:00:07,960
+But where does that information come from?
+
+4
+00:00:07,960 --> 00:00:11,090
+The information we collect
+comes from a variety of sources.
+
+5
+00:00:11,090 --> 00:00:12,020
+One is your activity
+
+6
+00:00:12,020 --> 00:00:14,360
+on Meta product app services and hardware.
+
+7
+00:00:14,360 --> 00:00:16,680
+Things like liking an Instagram post,
+
+8
+00:00:16,680 --> 00:00:18,780
+playing a game on your Meta Quest 2,
+
+9
+00:00:18,780 --> 00:00:21,740
+buying something through
+Marketplace or sharing fundraisers
+
+10
+00:00:21,740 --> 00:00:24,490
+on Facebook all generate information.
+
+11
+00:00:24,490 --> 00:00:26,980
+And sometimes businesses
+also share information
+
+12
+00:00:26,980 --> 00:00:29,280
+with us like your activity
+on their websites.
+
+13
+00:00:29,280 --> 00:00:32,070
+They may also share
+experiences you have offline,
+
+14
+00:00:32,070 --> 00:00:34,930
+like signing up for rewards
+card with your email address.
+
+15
+00:00:34,930 --> 00:00:37,560
+This makes it easier for
+them to share promotions,
+
+16
+00:00:37,560 --> 00:00:39,840
+product information,
+and other ads with you
+
+17
+00:00:39,840 --> 00:00:42,390
+through our apps consistent
+with the choices you make.
+
+18
+00:00:42,390 --> 00:00:44,210
+We know that people want to understand
+
+19
+00:00:44,210 --> 00:00:46,350
+and control what we do
+with this information.
+
+20
+00:00:46,350 --> 00:00:49,560
+That's why we offer a number
+of ways to help you personalize
+
+21
+00:00:49,560 --> 00:00:51,590
+and manage things the way you want.
+
+22
+00:00:51,590 --> 00:00:53,860
+For example, maybe you've
+been shopping around
+
+23
+00:00:53,860 --> 00:00:56,490
+for a new mattress and
+finally found the one.
+
+24
+00:00:56,490 --> 00:00:59,430
+Now that your hunt is over,
+maybe you don't want to see ads
+
+25
+00:00:59,430 --> 00:01:01,350
+from certain mattress brands anymore.
+
+26
+00:01:01,350 --> 00:01:03,880
+If so, you can go to Ad Preferences
+
+27
+00:01:03,880 --> 00:01:06,600
+and hide ads from those
+specific advertisers
+
+28
+00:01:06,600 --> 00:01:08,750
+or manage your ad settings more generally.
+
+29
+00:01:08,750 --> 00:01:10,630
+Or remember that rewards card?
+
+30
+00:01:10,630 --> 00:01:12,980
+By signing up, you may start seeing deals
+
+31
+00:01:12,980 --> 00:01:14,560
+for their products popping up.
+
+32
+00:01:14,560 --> 00:01:16,510
+Using Off-Facebook Activity,
+
+33
+00:01:16,510 --> 00:01:19,470
+you can view a summary of the
+information Facebook receives
+
+34
+00:01:19,470 --> 00:01:22,030
+about your activity on
+other apps and websites
+
+35
+00:01:22,030 --> 00:01:24,620
+and choose to disconnect
+it from your account.
+
+36
+00:01:24,620 --> 00:01:28,000
+When it comes to your
+information, we're here for you.
+
+37
+00:01:28,000 --> 00:01:30,420
+And helping you understand
+how your information
+
+38
+00:01:30,420 --> 00:01:33,430
+is collected, used, and
+shared is our responsibility.
+
+39
+00:01:33,430 --> 00:01:36,320
+So whether you're messaging,
+posting, shopping, liking,
+
+40
+00:01:36,320 --> 00:01:38,670
+or sharing, we're committed
+to helping you have
+
+41
+00:01:38,670 --> 00:01:40,300
+the best experience possible
+
+42
+00:01:40,300 --> 00:01:42,493
+across all of our apps and products.

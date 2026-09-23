@@ -1,0 +1,23 @@
+{
+  "name": "WebChoices",
+  "short_name": "WebChoices",
+  "description": "The new WebChoices consumer choice tool.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#0d9cb9",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://optout.aboutads.info/web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://optout.aboutads.info/web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

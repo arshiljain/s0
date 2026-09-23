@@ -1,0 +1,1 @@
+window.BDS=window.BDS||{};window.BDS.BOOKS_KU_REBRAND_PRIMARY_LAUNCH_1236037="C";window.dispatchEvent(new Event("BOOKS_KU_REBRAND_PRIMARY_LAUNCH_1236037"));

@@ -1,0 +1,1 @@
+'use strict';window.QV=window.QV||{};window.QV.isReKindleEnabled=!1;

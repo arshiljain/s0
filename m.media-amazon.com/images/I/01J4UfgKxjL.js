@@ -1,0 +1,1 @@
+'use strict';window.QV=window.QV||{};window.QV.iOSPurchaseRestrictionMessageTreatment="C";

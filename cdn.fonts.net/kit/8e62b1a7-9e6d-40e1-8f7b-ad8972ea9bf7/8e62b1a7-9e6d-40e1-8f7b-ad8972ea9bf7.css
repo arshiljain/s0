@@ -1,0 +1,110 @@
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("https://cdn.fonts.net/t/1~f3d25e.css");
+  
+@font-face {
+  font-family: "MercuryDisplaySemiboldItalic";
+  font-style: italic;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('./MercuryDisplay/MercuryDisplaySemiboldItalic_italic_normal.woff2') format('woff2'), url('./MercuryDisplay/MercuryDisplaySemiboldItalic_italic_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "MercuryTextG1Bold";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('./MercuryText/MercuryTextG1Bold_normal_normal.woff2') format('woff2'), url('./MercuryText/MercuryTextG1Bold_normal_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "MercuryTextG1Italic";
+  font-style: italic;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('./MercuryText/MercuryTextG1Italic_italic_normal.woff2') format('woff2'), url('./MercuryText/MercuryTextG1Italic_italic_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "GothamNarrowMedium";
+  font-style: normal;
+  font-stretch: condensed;
+  font-display: swap;
+  src: url('./Gotham/GothamNarrowMedium_normal_condensed.woff2') format('woff2'), url('./Gotham/GothamNarrowMedium_normal_condensed.woff') format('woff');
+}
+@font-face {
+  font-family: "MercuryTextG1Regular";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('./MercuryText/MercuryTextG1Regular_normal_normal.woff2') format('woff2'), url('./MercuryText/MercuryTextG1Regular_normal_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "MercuryDisplaySemibold";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('./MercuryDisplay/MercuryDisplaySemibold_normal_normal.woff2') format('woff2'), url('./MercuryDisplay/MercuryDisplaySemibold_normal_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "GothamNarrowBold";
+  font-style: normal;
+  font-stretch: condensed;
+  font-display: swap;
+  src: url('./Gotham/GothamNarrowBold_normal_condensed.woff2') format('woff2'), url('./Gotham/GothamNarrowBold_normal_condensed.woff') format('woff');
+}
+@font-face {
+  font-family: "GothamBold";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('./Gotham/GothamBold_normal_normal.woff2') format('woff2'), url('./Gotham/GothamBold_normal_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "MercuryDisplayBold";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('./MercuryDisplay/MercuryDisplayBold_normal_normal.woff2') format('woff2'), url('./MercuryDisplay/MercuryDisplayBold_normal_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "MercuryTextG1Semibold";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('./MercuryText/MercuryTextG1Semibold_normal_normal.woff2') format('woff2'), url('./MercuryText/MercuryTextG1Semibold_normal_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "GothamBook";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('./Gotham/GothamBook_normal_normal.woff2') format('woff2'), url('./Gotham/GothamBook_normal_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "GothamMediumItalic";
+  font-style: italic;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('./Gotham/GothamMediumItalic_italic_normal.woff2') format('woff2'), url('./Gotham/GothamMediumItalic_italic_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "GothamMedium";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('./Gotham/GothamMedium_normal_normal.woff2') format('woff2'), url('./Gotham/GothamMedium_normal_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "MercuryDisplayItalic";
+  font-style: italic;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('./MercuryDisplay/MercuryDisplayItalic_italic_normal.woff2') format('woff2'), url('./MercuryDisplay/MercuryDisplayItalic_italic_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "MercuryDisplayRegular";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('./MercuryDisplay/MercuryDisplayRegular_normal_normal.woff2') format('woff2'), url('./MercuryDisplay/MercuryDisplayRegular_normal_normal.woff') format('woff');
+}

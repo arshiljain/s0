@@ -1,0 +1,30 @@
+.fpf__block *,
+.fpf__block *:before,
+.fpf__block *:after {
+  box-sizing: inherit;
+}
+
+.fpf__block,
+.fpf__block h1,
+.fpf__block h2,
+.fpf__block h3,
+.fpf__block h4,
+.fpf__block h5,
+.fpf__block h6,
+.fpf__block p,
+.fpf__block ol,
+.fpf__block ul {
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+}
+
+.fpf__block ol,
+.fpf__block ul {
+  list-style: none;
+}
+
+.fpf__block img {
+  max-width: 100%;
+  height: auto;
+}

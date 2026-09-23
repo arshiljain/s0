@@ -1,0 +1,1 @@
+const o="stencilComponentLoaded";export{o as S}

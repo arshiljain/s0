@@ -1,0 +1,43 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * arial-narrow:
+ *   - http://typekit.com/eulas/0000000000000000775ab412
+ *   - http://typekit.com/eulas/0000000000000000775ab415
+ *   - http://typekit.com/eulas/0000000000000000775ab41d
+ *   - http://typekit.com/eulas/0000000000000000775ab41a
+ *
+ * © 2009-2026 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2026-01-22 17:34:19 UTC"}*/
+
+@import url("https://use.typekit.net/p.typekit.net/p~282c98.css");
+
+@font-face {
+font-family:"arial-narrow";
+src:url("https://use.typekit.net/af/ccfbfc/0000000000000000775ab412/31/l/index~85be9c.html") format("woff2"),url("./af/ccfbfc/0000000000000000775ab412/31/d/index~85be9c.html") format("woff"),url("./af/ccfbfc/0000000000000000775ab412/31/a/index~85be9c.html") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"arial-narrow";
+src:url("https://use.typekit.net/af/1bbe1e/0000000000000000775ab415/31/l/index~211224.html") format("woff2"),url("./af/1bbe1e/0000000000000000775ab415/31/d/index~211224.html") format("woff"),url("./af/1bbe1e/0000000000000000775ab415/31/a/index~211224.html") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"arial-narrow";
+src:url("https://use.typekit.net/af/a343d7/0000000000000000775ab41d/31/l/index~3739d4.html") format("woff2"),url("./af/a343d7/0000000000000000775ab41d/31/d/index~3739d4.html") format("woff"),url("./af/a343d7/0000000000000000775ab41d/31/a/index~3739d4.html") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"arial-narrow";
+src:url("https://use.typekit.net/af/ac0a30/0000000000000000775ab41a/31/l/index~d58094.html") format("woff2"),url("./af/ac0a30/0000000000000000775ab41a/31/d/index~d58094.html") format("woff"),url("./af/ac0a30/0000000000000000775ab41a/31/a/index~d58094.html") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+.tk-arial-narrow { font-family: "arial-narrow",sans-serif; }

@@ -1,0 +1,45 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * akzidenz-grotesk:
+ *   - http://typekit.com/eulas/000000000000000000013631
+ *   - http://typekit.com/eulas/000000000000000000013633
+ *   - http://typekit.com/eulas/000000000000000000013635
+ * akzidenz-grotesk-extended:
+ *   - http://typekit.com/eulas/00000000000000000001375e
+ *
+ * © 2009-2026 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2018-06-26 15:26:50 UTC"}*/
+
+@import url("https://use.typekit.net/p.typekit.net/p~7bba1d.css");
+
+@font-face {
+font-family:"akzidenz-grotesk";
+src:url("https://use.typekit.net/af/99cda7/000000000000000000013631/27/l/index~884b8c.html") format("woff2"),url("./af/99cda7/000000000000000000013631/27/d/index~884b8c.html") format("woff"),url("./af/99cda7/000000000000000000013631/27/a/index~884b8c.html") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"akzidenz-grotesk";
+src:url("https://use.typekit.net/af/9d033e/000000000000000000013633/27/l/index~7f1a2e.html") format("woff2"),url("./af/9d033e/000000000000000000013633/27/d/index~7f1a2e.html") format("woff"),url("./af/9d033e/000000000000000000013633/27/a/index~7f1a2e.html") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"akzidenz-grotesk";
+src:url("https://use.typekit.net/af/5556ca/000000000000000000013635/27/l/index~85be9c.html") format("woff2"),url("./af/5556ca/000000000000000000013635/27/d/index~85be9c.html") format("woff"),url("./af/5556ca/000000000000000000013635/27/a/index~85be9c.html") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"akzidenz-grotesk-extended";
+src:url("https://use.typekit.net/af/6bb33f/00000000000000000001375e/27/l/index~85be9c.html") format("woff2"),url("./af/6bb33f/00000000000000000001375e/27/d/index~85be9c.html") format("woff"),url("./af/6bb33f/00000000000000000001375e/27/a/index~85be9c.html") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+.tk-akzidenz-grotesk { font-family: "akzidenz-grotesk",sans-serif; }
+.tk-akzidenz-grotesk-extended { font-family: "akzidenz-grotesk-extended",sans-serif; }

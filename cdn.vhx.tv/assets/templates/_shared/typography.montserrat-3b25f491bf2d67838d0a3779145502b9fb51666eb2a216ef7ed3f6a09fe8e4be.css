@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'montserrat';
+  src: url('https://cdn.vhx.tv/static.vhx.tv/theme/fonts/montserrat-regular.eot');
+  src:
+    url('https://cdn.vhx.tv/static.vhx.tv/theme/fonts/montserrat-regular.eot')
+      format('embedded-opentype'),
+    url('../../../../static.vhx.tv/theme/fonts/montserrat-regular.woff2')
+      format('woff2'),
+    url('../../../../static.vhx.tv/theme/fonts/montserrat-regular.woff')
+      format('woff'),
+    url('../../../../static.vhx.tv/theme/fonts/montserrat-regular.ttf')
+      format('truetype'),
+    url('../../../../static.vhx.tv/theme/fonts/montserrat-regular.svg')
+      format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'montserrat-bold';
+  src: url('https://cdn.vhx.tv/static.vhx.tv/theme/fonts/montserrat-bold.eot');
+  src:
+    url('https://cdn.vhx.tv/static.vhx.tv/theme/fonts/montserrat-bold.eot')
+      format('embedded-opentype'),
+    url('../../../../static.vhx.tv/theme/fonts/montserrat-bold.woff2')
+      format('woff2'),
+    url('../../../../static.vhx.tv/theme/fonts/montserrat-bold.woff') format('woff'),
+    url('../../../../static.vhx.tv/theme/fonts/montserrat-bold.ttf')
+      format('truetype'),
+    url('../../../../static.vhx.tv/theme/fonts/montserrat-bold.svg')
+      format('svg');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}

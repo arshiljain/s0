@@ -1,0 +1,52 @@
+:root {
+  /* -------------------------------------------- */
+  /* Colors */
+  /* https://tinyurl.com/24rw9h7q
+  /* -------------------------------------------- */
+
+  --fpf--color--brand-black: #231F23;
+
+  /* -------------------------------------------- */
+  /* Layout */
+  /* -------------------------------------------- */
+
+  --fpf--screen--xs: 768px;
+  --fpf--screen--sm: 1024px;
+  --fpf--screen--md: 1280px;
+  --fpf--screen--lg: 1920px;
+
+  /* -------------------------------------------- */
+  /* Spacing */
+  /* -------------------------------------------- */
+
+  --fpf--spacing--03: 0.30rem; /* 4.80px */
+  --fpf--spacing--05: 0.50rem; /* 8.00px */
+  --fpf--spacing--07: 0.75rem; /* 12.00px */
+  --fpf--spacing--10: 1.00rem; /* 16.00px */
+  --fpf--spacing--15: 1.50rem; /* 24.00px */
+  --fpf--spacing--20: 2.00rem; /* 32.00px */
+  --fpf--spacing--25: 2.50rem; /* 40.00px */
+  --fpf--spacing--27: 2.75rem; /* 44.00px */
+  --fpf--spacing--30: 3.00rem; /* 48.00px */
+  --fpf--spacing--40: 4.00rem; /* 64.00px */
+
+  /* Flex Range: 250px - 900px */
+  --fpf--spacing--flex-05-27: clamp(var(--fpf--spacing--05), -0.3654rem + 5.5385vw, var(--fpf--spacing--27));
+  --fpf--spacing--flex-10-20: clamp(var(--fpf--spacing--10), 0.6154rem + 2.4615vw, var(--fpf--spacing--20));
+  --fpf--spacing--flex-10-27: clamp(var(--fpf--spacing--10), 0.3269rem + 4.3077vw, var(--fpf--spacing--27));
+  --fpf--spacing--flex-30-40: clamp(var(--fpf--spacing--30), 2.6154rem + 2.4615vw, var(--fpf--spacing--40));
+
+  /* -------------------------------------------- */
+  /* Typography */
+  /* https://tinyurl.com/23krbxwt
+  /* -------------------------------------------- */
+
+  --fpf--font-family--base: 'Proxima Nova', sans-serif;
+
+  --fpf--font-size--sm: 12px;
+  --fpf--font-size--base: 16px;
+  --fpf--font-size--md: 22px;
+  --fpf--font-size--lg: 30px;
+
+  --fpf--font-size--flex-md-lg: clamp(var(--fpf--font-size--md), 1.1827rem + 1.2308vw, var(--fpf--font-size--lg));
+}
